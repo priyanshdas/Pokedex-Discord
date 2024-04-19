@@ -23,9 +23,9 @@ The Pokedex Discord Bot is a feature-rich bot that brings the world of Pokémon 
 
 To add the Pokedex Discord Bot to your server, simply click [here](https://discord.com/oauth2/authorize?client_id=1058425146475544688&scope=bot&permissions=277025770496) to invite the bot. Make sure you have the necessary permissions to add bots to your server.
 
-Once the bot is added, you can start using it right away! The default prefix is `@pokedex`.
+Once the bot is added, you can start using it right away! The default prefix is `/pokedex`.
 
-For a list of available commands and their usage, type `@pokedex help` in any text channel where the bot is present.
+For a list of available commands and their usage, type `/pokedex help` in any text channel where the bot is present.
 
 ## Contributing
 
