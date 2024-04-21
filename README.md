@@ -1,4 +1,7 @@
+<iframe src="https://discord.com/widget?id=870051843621916744&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 # Pokedex Discord Bot
+
 
 Welcome to the Pokedex Discord Bot repository!
 
@@ -33,7 +36,7 @@ We welcome contributions from the community! If you have any suggestions, bug fi
 
 ## Support
 
-If you encounter any issues or have any questions about the Pokedex Discord Bot, feel free to reach out to us on [GMAIL](mailto:pokedexbotdiscord@gmail.com) or open an issue in this repository.
+If you encounter any issues or have any questions about the Pokedex Discord Bot, feel free to reach out to us on [GMAIL](mailto:pokedexbotdiscord@gmail.com) [SERVER](https://discord.gg/9y9yNeYztT) or open an issue in this repository.
 
 ## Credits
 
