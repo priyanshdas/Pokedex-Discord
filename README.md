@@ -35,7 +35,7 @@ We welcome contributions from the community! If you have any suggestions, bug fi
 
 ## Support
 
-If you encounter any issues or have any questions about the Pokedex Discord Bot, feel free to reach out to us on [GMAIL](mailto:pokedexbotdiscord@gmail.com) [SERVER](https://discord.gg/9y9yNeYztT) or open an issue in this repository.
+If you encounter any issues or have any questions about the Pokedex Discord Bot, feel free to reach out to us on [GMAIL](mailto:pokedexbotdiscord@gmail.com), [SUPPORT SERVER](https://discord.gg/QdArv5se7c) or open an issue in this repository.
 
 ## Credits
 
